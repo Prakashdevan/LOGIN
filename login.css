@@ -1,0 +1,45 @@
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    position: relative;
+    width:320px;
+    height: 340px;
+    border: blanchedalmond;
+    border-style: groove;
+    margin-left: 600px;
+    margin-top: 220px;
+    border-radius: 10px 10px 10px 10px;
+}
+#user{
+     font-family: Arial, Helvetica, sans-serif;
+    width: 250px;
+    height: 32px;
+    border-radius: 20px 20px 20px 20px;
+    padding-left: 5%;
+    background-color:rgb(250, 218, 177);
+}
+.pass{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 250px;
+    height: 32px;
+    border-radius: 20px 20px 20px 20px;
+    padding-left: 5%;
+    background-color:rgb(250, 218, 177);
+}
+#login{
+   font-size: larger;
+    width: 250px;
+    height: 32px;border-radius: 20px 20px 20px 20px;
+    color:black;
+    background-color: aqua;
+    
+}
+body{
+   background-image: url('login8jpg.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+h2{
+   color: white;
+}
